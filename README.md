@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="#examples">📚 Examples</a> •
-  <a href="#tree overview">👀 Paper Overview</a> •
+  <a href="#tree overview">👀 Tree Overview</a> •
   <a href="#paper list">📖 Paper List</a>
 </p>
 
