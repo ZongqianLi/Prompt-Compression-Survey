@@ -1,5 +1,57 @@
 # Prompt Compression for Large Language Models: A Survey
 
+<p align="center">
+  <b>Content</b>
+</p>
+
+<p align="center">
+  <a href="#news">🚀 News</a> •
+  <a href="#todo">✏️ Todo</a> •
+  <a href="#introduction">✨ Introduction</a>
+</p>
+
+<p align="center">
+  <a href="#examples">📚 Examples</a> •
+  <a href="#paper overview">👀 Paper Overview</a> •
+  <a href="#paper list">📖 Paper List</a>
+</p>
+
+<p align="center">
+  <a href="#citation">📌 Citation</a> •
+  <a href="#license">🔖 License</a>
+</p>
+<div id="news">&nbsp;</div>
+
+
+
+## 🚀 News
+
+- **[2024.10.16]** The paper was uploaded to Arxiv.
+
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div id="todo">&nbsp;</div>
+
+
+
+## ✏️ Todo
+
+- [ ] Release the full README page.
+
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div id="introduction">&nbsp;</div>
+
+
+
+## ✨ Introduction
+
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div id="examples">&nbsp;</div>
+
+
+
 ## 🚀 Examples
 
 <!--
@@ -10,11 +62,11 @@
 
 Illustrative examples of prompt compression methods. Hard prompt methods remove low-information tokens or paraphrase for conciseness. Soft prompt methods compress text into a smaller number of special tokens, $<c_n>$. The grids below visualize attention patterns, where the y-axis represents the sequence of tokens, and the x-axis shows the tokens they attend to. (Bottom left) Original prompt: Each token attends to all previous tokens. (Bottom middle) Hard prompt (filtering): Each token cannot attend to previous deleted tokens ($D_i$). (Bottom right) Soft prompt (whole): After the compression token ($C_i$) attends to all prior input tokens ($I_i$), subsequent output tokens ($O_i$) cannot attend to tokens before the compression token.
 
-<div>&nbsp;</div>
-<div>&nbsp;</div>
-<div id="Examples">&nbsp;</div>
-
 -->
+
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div id="paper overview">&nbsp;</div>
 
 ## 👀 Paper Overview
 
@@ -26,11 +78,13 @@ Illustrative examples of prompt compression methods. Hard prompt methods remove 
 
 Hierarchical overview of prompt compression methods and their downstream adaptions. For downstream adaptations, compression methods not belonging to specific categories can be classified into general QA.
 
-<div>&nbsp;</div>
-<div>&nbsp;</div>
-<div id="Examples">&nbsp;</div>
-
 -->
+
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div id="paper list">&nbsp;</div>
+
+
 
 ## 📖 Paper List
 
@@ -138,7 +192,35 @@ Hierarchical overview of prompt compression methods and their downstream adaptio
     - [[Role Playing](https://openreview.net/forum?id=lRxpVfDMzz&noteId=FCpjbTksSl)] Extensible Prompts for Language Models on Zero-shot Language Style Customization
     - [[Functions](https://openreview.net/forum?id=AwyxtyMwaG&noteId=KCsskXIh9z)] Function Vectors in Large Language Models
 
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div id="citation">&nbsp;</div>
 
+
+
+## 📌 Citation
+
+```
+@misc{li2024promptcompressionlargelanguage,
+      title={Prompt Compression for Large Language Models: A Survey}, 
+      author={Zongqian Li and Yinhong Liu and Yixuan Su and Nigel Collier},
+      year={2024},
+      eprint={2410.12388},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2410.12388}, 
+}
+```
+
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div id="license">&nbsp;</div>
+
+
+
+## 🔖 License
+
+This project is licensed under the Creative Commons Attribution 4.0 International License - see the [LICENSE](https://creativecommons.org/licenses/by/4.0/deed.en) for details.
 
 
 
