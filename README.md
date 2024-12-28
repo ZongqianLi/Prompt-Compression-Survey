@@ -1,10 +1,38 @@
 # Prompt Compression for Large Language Models: A Survey
 
-## Examples
+## 🚀 Examples
 
-## Paper Overview
+<!--
 
-## Paper List
+<p align="left">
+  <img src="./Figures/cover_figure.png" width="40%">
+</p>
+
+Illustrative examples of prompt compression methods. Hard prompt methods remove low-information tokens or paraphrase for conciseness. Soft prompt methods compress text into a smaller number of special tokens, $<c_n>$. The grids below visualize attention patterns, where the y-axis represents the sequence of tokens, and the x-axis shows the tokens they attend to. (Bottom left) Original prompt: Each token attends to all previous tokens. (Bottom middle) Hard prompt (filtering): Each token cannot attend to previous deleted tokens ($D_i$). (Bottom right) Soft prompt (whole): After the compression token ($C_i$) attends to all prior input tokens ($I_i$), subsequent output tokens ($O_i$) cannot attend to tokens before the compression token.
+
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div id="Examples">&nbsp;</div>
+
+-->
+
+## 👀 Paper Overview
+
+<!--
+
+<p align="left">
+  <img src="./Figures/tree_overview.png" width="40%">
+</p>
+
+Hierarchical overview of prompt compression methods and their downstream adaptions. For downstream adaptations, compression methods not belonging to specific categories can be classified into general QA.
+
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div id="Examples">&nbsp;</div>
+
+-->
+
+## 📖 Paper List
 
 ### Hard Prompt Methods:
 
