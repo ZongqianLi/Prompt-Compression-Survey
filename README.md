@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <a href="#examples">📚 Examples</a> •
-  <a href="#tree overview">👀 Tree Overview</a> •
+  <a href="#examples">👀 Examples</a> •
+  <a href="#tree overview">🌳 Tree Overview</a> •
   <a href="#paper list">📖 Paper List</a>
 </p>
 
@@ -52,7 +52,7 @@
 
 
 
-## 🚀 Examples
+## 👀 Examples
 
 <!--
 
@@ -68,7 +68,7 @@ Illustrative examples of prompt compression methods. Hard prompt methods remove 
 <div>&nbsp;</div>
 <div id="tree overview">&nbsp;</div>
 
-## 👀 Tree Overview
+## 🌳 Tree Overview
 
 <!--
 
