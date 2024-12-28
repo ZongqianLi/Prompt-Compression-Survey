@@ -32,7 +32,7 @@
     - [[TCRA-LLM](https://aclanthology.org/2023.findings-emnlp.655/)] Token Compression Retrieval Augmented Large Language Model for Inference Cost Reduction
 
 - **Paraphrasing:**
-  - 123
+  - (No sub category)
     - [[Nano-Capsulator](https://aclanthology.org/2024.naacl-long.429/)] Learning to Compress Prompt in Natural Language Formats
     - [[CompAct](https://aclanthology.org/2024.emnlp-main.1194/)] Compressing Retrieved Documents Actively for Question Answering
     - [[FAVICOMP](https://arxiv.org/abs/2409.12468)] Familiarity-Aware Evidence Compression for Retrieval-Augmented Generation
@@ -75,7 +75,7 @@
 
 - **RAG:**
 
-  - 123
+  - (No sub category)
 
     - [[xRAG]()]
     - [[RECOMP]()]
@@ -88,21 +88,21 @@
 
 - **Agents:**
 
-  - 123
+  - (No sub category)
 
     - [[HD-Gist]()]
     - [[]()]
 
 - **Domain-specific tasks:**
 
-  - 123
+  - (No sub category)
 
     - [[Tag-llm]()]
     - [[CoLLEGe]()]
 
 - **Others:**
 
-  - 123
+  - (No sub category)
 
     - [[ICL]()]
     - [[Role Playing]()] 
