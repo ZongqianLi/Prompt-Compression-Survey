@@ -188,7 +188,7 @@ Hierarchical overview of prompt compression methods and their downstream adaptio
 
   - (No sub category)
 
-    - [[ICL](https://arxiv.org/abs/2405.17062)] Unifying Demonstration Selection and Compression for In-Context Learning
+    - [[UniICL](https://arxiv.org/abs/2405.17062)] Unifying Demonstration Selection and Compression for In-Context Learning
     - [[Role Playing](https://openreview.net/forum?id=lRxpVfDMzz&noteId=FCpjbTksSl)] Extensible Prompts for Language Models on Zero-shot Language Style Customization
     - [[Functions](https://openreview.net/forum?id=AwyxtyMwaG&noteId=KCsskXIh9z)] Function Vectors in Large Language Models
 
