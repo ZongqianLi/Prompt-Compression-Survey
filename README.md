@@ -1,4 +1,4 @@
-# Prompt Compression for Large Language Models: A Survey
+# [NAACL 2024 Main] Prompt Compression for Large Language Models: A Survey
 
 <p align="center">
   <b>Content</b>
