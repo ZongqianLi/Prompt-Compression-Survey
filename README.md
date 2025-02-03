@@ -14,6 +14,7 @@
   <a href="#examples">👀 Examples</a> •
   <a href="#tree overview">🌳 Tree Overview</a> •
   <a href="#paper list">📖 Paper List</a>
+  <a href="#visualisations">🎨 Visualisations</a>
 </p>
 
 <p align="center">
@@ -192,6 +193,24 @@ Hierarchical overview of prompt compression methods and their downstream adaptio
     - [[ICL](https://arxiv.org/abs/2405.17062)] Unifying Demonstration Selection and Compression for In-Context Learning
     - [[Role Playing](https://openreview.net/forum?id=lRxpVfDMzz&noteId=FCpjbTksSl)] Extensible Prompts for Language Models on Zero-shot Language Style Customization
     - [[Functions](https://openreview.net/forum?id=AwyxtyMwaG&noteId=KCsskXIh9z)] Function Vectors in Large Language Models
+
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div id="visualisations">&nbsp;</div>
+
+
+
+## 🎨 Visualisations
+
+<!--
+
+<p align="left">
+  <img src="./Figures/.png" width="40%">
+</p>
+
+-->
+
+
 
 <div>&nbsp;</div>
 <div>&nbsp;</div>
