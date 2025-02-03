@@ -26,6 +26,7 @@
 
 ## 🚀 News
 
+- **[2025.01.22]** This paper was accepted by NAACL 2025 Main!
 - **[2024.10.16]** The paper was uploaded to Arxiv.
 
 <div>&nbsp;</div>
