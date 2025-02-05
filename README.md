@@ -23,6 +23,15 @@
 </p>
 <div id="news">&nbsp;</div>
 
+<p align="center">
+  <b>Links</b>
+</p>
+
+<p align="center">
+  <a href="">Project Page</a> •
+  <a href="">Paper</a>
+</p>
+
 
 
 ## 🚀 News
