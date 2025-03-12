@@ -1,4 +1,4 @@
-# [NAACL 2025 Main] Prompt Compression for Large Language Models: A Survey
+# [NAACL 2025 Main (Selected Oral)] Prompt Compression for Large Language Models: A Survey
 
 <p align="center">
   <b>Content</b>
