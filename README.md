@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="">Project Page</a> •
-  <a href="">Paper</a>
+  <a href="https://aclanthology.org/2025.naacl-long.368/">Paper</a>
 </p>
 
 
