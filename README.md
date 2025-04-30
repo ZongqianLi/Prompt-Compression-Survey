@@ -204,8 +204,18 @@ Hierarchical overview of prompt compression methods and their downstream adaptio
 ## 🎨 Visualisations
 
 <p align="left">
-  <img src="./Figures/.png" width="40%">
+  <img src="./Figures/hard_prompt_methods.png" width="80%">
 </p>
+
+Architectures for various prompt compression models by hard prompt methods. For SelectiveContext and LLMLingua, the bottom language models filter the prompt tokens without modifying them, serving as selection mechanisms. In Nano-Capsulator, the bottom LLM generates a paraphrased version of the input prompt which then serves as input for the LLM above. "SLM" means "small language model". "Close LLM" refers to closed-source language models that only accept natural language inputs through API calls.
+
+<div>&nbsp;</div>
+
+<p align="left">
+  <img src="./Figures/soft_prompt_methods.png" width="80%">
+</p>
+
+Architectures for various prompt compression models by soft prompt methods. Tokens with diagonal stripes represent the output tokens processed by the language models. Different from hard prompt methods, the bottom LLMs in soft prompt methods process the input tokens, and their outputs (tokens with diagonal stripes) serve as input for the LLMs above.
 
 <div>&nbsp;</div>
 <div>&nbsp;</div>
