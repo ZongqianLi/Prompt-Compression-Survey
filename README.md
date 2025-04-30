@@ -65,15 +65,11 @@
 
 ## 👀 Examples
 
-<!--
-
 <p align="left">
   <img src="./Figures/cover_figure.png" width="40%">
 </p>
 
 Illustrative examples of prompt compression methods. Hard prompt methods remove low-information tokens or paraphrase for conciseness. Soft prompt methods compress text into a smaller number of special tokens, $<c_n>$. The grids below visualize attention patterns, where the y-axis represents the sequence of tokens, and the x-axis shows the tokens they attend to. (Bottom left) Original prompt: Each token attends to all previous tokens. (Bottom middle) Hard prompt (filtering): Each token cannot attend to previous deleted tokens ($D_i$). (Bottom right) Soft prompt (whole): After the compression token ($C_i$) attends to all prior input tokens ($I_i$), subsequent output tokens ($O_i$) cannot attend to tokens before the compression token.
-
--->
 
 <div>&nbsp;</div>
 <div>&nbsp;</div>
@@ -81,15 +77,11 @@ Illustrative examples of prompt compression methods. Hard prompt methods remove 
 
 ## 🌳 Tree Overview
 
-<!--
-
 <p align="left">
-  <img src="./Figures/tree_overview.png" width="40%">
+  <img src="./Figures/tree_overview.png" width="80%">
 </p>
 
 Hierarchical overview of prompt compression methods and their downstream adaptions. For downstream adaptations, compression methods not belonging to specific categories can be classified into general QA.
-
--->
 
 <div>&nbsp;</div>
 <div>&nbsp;</div>
@@ -211,15 +203,9 @@ Hierarchical overview of prompt compression methods and their downstream adaptio
 
 ## 🎨 Visualisations
 
-<!--
-
 <p align="left">
   <img src="./Figures/.png" width="40%">
 </p>
-
--->
-
-
 
 <div>&nbsp;</div>
 <div>&nbsp;</div>
@@ -230,14 +216,23 @@ Hierarchical overview of prompt compression methods and their downstream adaptio
 ## 📌 Citation
 
 ```
-@misc{li2024promptcompressionlargelanguage,
-      title={Prompt Compression for Large Language Models: A Survey}, 
-      author={Zongqian Li and Yinhong Liu and Yixuan Su and Nigel Collier},
-      year={2024},
-      eprint={2410.12388},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2410.12388}, 
+@inproceedings{li-etal-2025-prompt,
+    title = "Prompt Compression for Large Language Models: A Survey",
+    author = "Li, Zongqian  and
+      Liu, Yinhong  and
+      Su, Yixuan  and
+      Collier, Nigel",
+    editor = "Chiruzzo, Luis  and
+      Ritter, Alan  and
+      Wang, Lu",
+    booktitle = "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",
+    month = apr,
+    year = "2025",
+    address = "Albuquerque, New Mexico",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.naacl-long.368/",
+    pages = "7182--7195",
+    ISBN = "979-8-89176-189-6",
 }
 ```
 
