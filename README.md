@@ -47,8 +47,6 @@
 
 ## ✏️ Todo
 
-- [ ] Release the full README page.
-
 <div>&nbsp;</div>
 <div>&nbsp;</div>
 <div id="introduction">&nbsp;</div>
