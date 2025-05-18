@@ -57,6 +57,13 @@
 
 ## ✨ Introduction
 
+A survey on prompt compression methods with insights and visualisations.
+
+### Contributions:
+- **Methods Overview:** An overview of prompt compression methods, categorized into hard prompt methods and soft prompt methods.  
+- **Insights:** Various ways to understand method mechanisms. 
+- **Visualisations:** Illustrations for various prompt compression methods. 
+
 <div>&nbsp;</div>
 <div>&nbsp;</div>
 <div id="examples">&nbsp;</div>
